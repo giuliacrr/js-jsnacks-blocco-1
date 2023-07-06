@@ -1,0 +1,29 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Pacifico', cursive;
+}
+body {
+  background-color: #B9EFE8;
+}
+
+.title-bg {
+  background-color: #EFB9C0;
+}
+
+.main-width {
+  width:300px;
+  margin:auto;
+}
+
+.bg-list {
+  background-color: #EFB9C0;
+}
+
+.single-guest {
+  padding: 10px;
+  margin:auto;
+  width:220px;
+  font-size:1.3rem;
+}
