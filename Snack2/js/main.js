@@ -10,4 +10,4 @@ for (let x = 0; x < numbers.length; x++) {
     sum = sum + numbers[x];
   }
 }
-console.log("This is the sum of the odd index elements:" + " " + sum);
+console.log("This is the sum of the elements with odd index:" + " " + sum);
